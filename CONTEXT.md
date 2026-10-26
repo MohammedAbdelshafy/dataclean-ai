@@ -2,11 +2,11 @@
 type: repository
 status: active
 owner_repo: MohammedAbdelshafy/dataclean-ai
-product_name: Lead List Cleanup
+product_name: Veridata
 source_of_truth: https://github.com/MohammedAbdelshafy/dataclean-ai
 ---
 
-# Lead List Cleanup CONTEXT
+# Veridata CONTEXT
 
 One job: make a customer-authorized lead file easier to review and use, without changing the source file.
 
