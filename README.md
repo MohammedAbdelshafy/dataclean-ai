@@ -1,6 +1,6 @@
-# Lead List Cleanup
+# Veridata
 
-Previously called DataClean AI, this is the customer-facing page for a done-for-you lead-file cleanup service.
+Veridata is a done-for-you lead-file cleanup service. It identifies duplicate rows, standardizes supported fields and returns a separate cleaned copy with a concise report.
 
 ## What the page offers
 
@@ -21,4 +21,4 @@ The public page currently describes a $499 job of up to 10,000 records and a 48-
 - Deliver only to an authorized customer channel.
 - Do not put customer data in this repository.
 
-The repository slug remains `dataclean-ai` for compatibility. The plain-language product name is **Lead List Cleanup**.
+The repository slug remains `dataclean-ai` for compatibility. The approved product name is **Veridata**. The repository slug remains `dataclean-ai`.
