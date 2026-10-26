@@ -1,4 +1,4 @@
-# Lead List Cleanup
+# Veridata
 
 Route by task:
 - Customer-facing offer and limitations: [README.md](README.md)
