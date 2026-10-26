@@ -21,4 +21,4 @@ The public page currently describes a $499 job of up to 10,000 records and a 48-
 - Deliver only to an authorized customer channel.
 - Do not put customer data in this repository.
 
-The repository slug remains `dataclean-ai` for compatibility. The approved product name is **Veridata**. The repository slug remains `dataclean-ai`.
+The approved product name is **Veridata**. The repository slug remains `dataclean-ai` for compatibility.
