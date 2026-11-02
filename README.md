@@ -11,7 +11,7 @@ Veridata is a done-for-you lead-file cleanup service. It identifies duplicate ro
 
 ## Before making a delivery promise
 
-The public page currently describes a $499 job of up to 10,000 records and a 48-hour target. Treat those as offer terms that must be confirmed with the customer and fulfillment capacity before a commitment is made. The page form is hosted separately, so verify it and the payment path end to end before claiming checkout is live.
+The public page now proposes a $1,450 fixed-scope job of up to 10,000 records, with a 48-hour target only after file format, rules, scope and fulfillment capacity are confirmed. The sample review is a preflight, not a claim that the full file has already been processed. No checkout or end-to-end payment route is currently verified; accept work only after written scope, authorized file transfer, delivery terms and payment method are agreed.
 
 ## Important boundaries
 
