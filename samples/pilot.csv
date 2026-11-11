@@ -1,0 +1,8 @@
+name,email,phone,notes
+ Alice Example ,ALICE@example.com,+1 (202) 555-0100,"First line
+Second line"
+Alice Example,alice@example.com,+1 (202) 555-0100,"First line
+Second line"
+Bob Example,alice@example.com,+1 (202) 555-0100,Different person sharing contact
+Cara Example,invalid-email,+12345678901234567890 ext 5,Needs review
+Dan Example,,,+SUM(1)
