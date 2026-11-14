@@ -1,0 +1,18 @@
+*** src/App.tsx  (AppDeploy snapshot 1793980176493)
+--- src/App.tsx  (review candidate only)
+@@
+-import { FormEvent, useState } from 'react';
++import { FormEvent, useRef, useState } from 'react';
+@@
+ function App() {
++  // Reuse stable receipt across retries; rotate only for another request.
++  const requestIdRef = useRef<string>(crypto.randomUUID());
+   const [form, setForm] = useState<LeadForm>(initialForm);
+@@
+       await api.post('/api/leads', {
++        requestId: requestIdRef.current,
+         name: form.name.trim(),
+@@
+                   onClick={() => {
++                    requestIdRef.current = crypto.randomUUID();
+                     setForm(initialForm);
